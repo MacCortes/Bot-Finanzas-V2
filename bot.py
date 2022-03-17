@@ -25,5 +25,9 @@ disp.add_handler(MessageHandler(Filters.text & (~Filters.command), echo))
 
 upd.start_polling()
 
-print('Hello')
+print('Bot running')
+
+upd.idle()
+
+print('End')
 
