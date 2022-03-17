@@ -1,3 +1,7 @@
 # Todos los archivos pycache
 auxiliar/__pycache__
 __pycache__
+
+# Others
+test.py
+auxiliar1.py
