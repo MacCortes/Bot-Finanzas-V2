@@ -2,6 +2,10 @@
 auxiliar/__pycache__
 __pycache__
 
+#folders
+db
+img
+
 # Others
 test.py
 auxiliar1.py
